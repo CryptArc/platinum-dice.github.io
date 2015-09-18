@@ -4,13 +4,13 @@
 
 var config = {
   // - Your app's id on moneypot.com
-  app_id: 616,                             // <----------------------------- EDIT ME!
+  app_id: 617,                             // <----------------------------- EDIT ME!
   // - Displayed in the navbar
-  app_name: 'Untitled Dice',
+  app_name: 'Krypto Dice',
   // - For your faucet to work, you must register your site at Recaptcha
   // - https://www.google.com/recaptcha/intro/index.html
   recaptcha_sitekey: '6LcCBQ0TAAAAABvNa98xJ6jhfhXmzbygI4EGkV3T',  // <----- EDIT ME!
-  redirect_uri: 'https://platinum-dice.github.io',
+  redirect_uri: 'https://CryptArc.github.io',
   mp_browser_uri: 'https://www.moneypot.com',
   mp_api_uri: 'https://api.moneypot.com',
   chat_uri: '//socket.moneypot.com',
