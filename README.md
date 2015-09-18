@@ -1,4 +1,4 @@
-# untitled-dice
+# Platinum Dice
 
 ##### Live demo: https://untitled-dice.github.io
 
